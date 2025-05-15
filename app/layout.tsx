@@ -1,13 +1,12 @@
-import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
-import './globals.css';
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import "./globals.css";
 
-const inter = Inter({ subsets: ['latin'] });
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'EdgeOne Pages AI: Utilize DeepSeek R1 for Free on the Edge.',
-  description:
-    'EdgeOne Pages AI offers free access to DeepSeek R1 for enhanced edge computing capabilities.',
+  title: "AI Chat",
+  description: "AI Chat with DeepSeek R1 model",
 };
 
 export default function RootLayout({

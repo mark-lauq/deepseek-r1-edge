@@ -1,4 +1,4 @@
-# AI chat with DeepSeek R1 model
+# AI Chat with DeepSeek R1 model
 
 ## Getting Started
 
